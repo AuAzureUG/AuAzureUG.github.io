@@ -2,13 +2,15 @@
 Built with GitHub pages
 
 [Meetup site](https://www.meetup.com/Australian-Azure-Users-Group/)
+
 [Azure community events Australia](https://azure.microsoft.com/en-us/community/events/?Country=Australia)
 
 # Rules
-The decision of the community leaders is final. We want to run a group which is fair and inclusive.
+We want to run a group which is fair and inclusive. The decision of the community leaders is final.
 
 ## General conduct
 This is a commmunuty group with a goal to learn about Azure and related technologies. Whilst Azure is from Microsoft we want to foster a community of learning not sales.
+
 *Play nice and be respectful*
 - we do not tolerate discrimination for any reason including race, nationality, sexual orientation, age, gender or any kind of attack 
 - listen to the and treat others with respect

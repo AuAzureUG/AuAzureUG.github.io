@@ -1,8 +1,8 @@
 # AuAzureUG.com - Australian Azure Users Group
-_Built with GitHub pages_
+_Built with [GitHub pages](https://pages.github.com) and globally accelerated with [Azure Front Door](https://azure.microsoft.com/en-us/services/frontdoor/)_ 
 
 ## Useful Links
-- [Meetup site](https://www.meetup.com/Australian-Azure-Users-Group/)
+- [AuAzureUG Meetup site](https://www.meetup.com/Australian-Azure-Users-Group/)
 - [Azure community events Australia](https://azure.microsoft.com/en-us/community/events/?Country=Australia)
 
 ## Rules

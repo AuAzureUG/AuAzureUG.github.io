@@ -17,7 +17,12 @@ This is a commmunuty group with a goal to learn about Azure and related technolo
 - be positive in your contributions
 - before promoting your product or service you must obtain permission from the community leaders; for presenters it is acceptable to explain the organisation you work for and a quick intro to your business type
 
+### Privacy disclaimer
+When you join virtual meetings, your name, email address and/or phone number may be viewable by other session participants in the attendee list. By joining, you’re agreeing to this experience.
+
+Events may be recorded for our community; if you object to this then please contact community leaders. When a meeting recording starts in Microsoft Teams shows a notification to all participants on the Teams desktop, web, and mobile apps, as well as to people who joined via phone. 
+
 ### Jobs and recruitment
 - If there is interest we may choose to share job openings between members however please speak to the organisers before approaching the group
 
-Should anyone feel members are not adhering to the spirit of these rules please contact the community leaders
+Should anyone feel members are not adhering to the spirit of these rules please contact the community leaders.

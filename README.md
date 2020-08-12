@@ -2,11 +2,12 @@
 _Built with [GitHub pages](https://pages.github.com) and globally accelerated with [Azure Front Door](https://azure.microsoft.com/en-us/services/frontdoor/)_ 
 
 ## Mext meeting  Noon, Thursday, August 13, 2020
-https://www.meetup.com/Australian-Azure-Users-Group/events/272348270/
+[https://www.meetup.com/Australian-Azure-Users-Group/events/272348270/](https://www.meetup.com/Australian-Azure-Users-Group/events/272348270/)
 
 ## Useful Links
 - [AuAzureUG Meetup site](https://www.meetup.com/Australian-Azure-Users-Group/)
 - [Azure community events Australia](https://azure.microsoft.com/en-us/community/events/?Country=Australia)
+- [Meeting backlog](https://github.com/AuAzureUG/AuAzureUG.github.io/projects/1)
 
 ## Rules
 We want to run a group which is fair and inclusive. The decision of the community leaders is final.

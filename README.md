@@ -8,6 +8,8 @@ _Built with [GitHub pages](https://pages.github.com) and globally accelerated wi
 - [AuAzureUG Meetup site](https://www.meetup.com/Australian-Azure-Users-Group/)
 - [Azure community events Australia](https://azure.microsoft.com/en-us/community/events/?Country=Australia)
 - [Meeting backlog](https://github.com/AuAzureUG/AuAzureUG.github.io/projects/1)
+- [Azure Notes - news](https://www.azurenotes.tech)
+- [Azure Charts - Australia Heatmap](https://azurecharts.com/heatmap?for=Australia)
 
 ## Rules
 We want to run a group which is fair and inclusive. The decision of the community leaders is final.

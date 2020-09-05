@@ -1,4 +1,4 @@
-# AuAzureUG.com - Australian Azure Users Group
+# AuAZUG.com - Australian Azure Users Group
 _Built with [GitHub pages](https://pages.github.com) and globally accelerated with [Azure Front Door](https://azure.microsoft.com/en-us/services/frontdoor/)_ 
 
 ## Mext meeting  Noon, Thursday, September 10, 2020

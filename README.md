@@ -12,7 +12,7 @@ _Built with [GitHub pages](https://pages.github.com) and globally accelerated wi
 - [Azure Charts - Australia Heatmap](https://azurecharts.com/heatmap?for=Australia)
 
 ### General conduct
-This is a commmunuty group with a goal to learn about Azure and related technologies. Whilst Azure is from Microsoft we want to foster a community of learning not sales.
+This is a commmunuty group with a goal to learn about Azure and related technologies. Whilst Azure is from Microsoft we want to foster a community of learning not sales. We favour great explainations and sharing success and failure using over slick presentations.
 
 *Play nice and be respectful*
 - we do not tolerate discrimination for any reason including race, nationality, sexual orientation, age, gender or any kind of attack 

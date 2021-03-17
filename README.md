@@ -1,7 +1,7 @@
 # www.AuAZUG.com - Australian Azure Users Group
 _Built with [GitHub pages](https://pages.github.com) and globally accelerated with [Azure Front Door](https://azure.microsoft.com/en-us/services/frontdoor/)_ 
 
-## Mext meeting  planned Noon, Tuesday, April 13, 2021
+## Next meeting  planned Noon, Tuesday, April 13, 2021
 [https://www.meetup.com/Australian-Azure-Users-Group/events/](https://www.meetup.com/Australian-Azure-Users-Group/events/)
 
 ## Useful Links

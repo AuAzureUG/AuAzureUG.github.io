@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: 
 description: 
-logo: ./azure-300-244.png
+logo: ./smaller-text-800x800-logo.png
 show_title: false
 show_description: false
 show_repo: true

@@ -34,3 +34,6 @@ We want to run a group which is fair and inclusive. The decision of the communit
 - If there is interest we may choose to share job openings between members however please speak to the organisers before approaching the group
 
 Should anyone feel members are not adhering to the spirit of these rules please contact the community leaders.
+
+### Credits
+Intro music: thanks to [josephmcdade.com](https://josephmcdade.com/music)

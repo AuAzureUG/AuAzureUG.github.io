@@ -1,7 +1,7 @@
 # www.AuAZUG.com - Australian Azure Users Group
 _Built with [GitHub pages](https://pages.github.com) and globally accelerated with [Azure Front Door](https://azure.microsoft.com/en-us/services/frontdoor/)_ 
 
-## Next meeting  planned Noon, Tuesday, April 13, 2021
+## Next meeting  planned Noon, Tuesday, April 27, 2022
 [https://www.meetup.com/Australian-Azure-Users-Group/events/](https://www.meetup.com/Australian-Azure-Users-Group/events/)
 
 ## Useful Links
@@ -31,7 +31,7 @@ Events may be recorded for our community; if you object to this then please cont
 We want to run a group which is fair and inclusive. The decision of the community leaders is final.
 
 ### Jobs and recruitment
-- If there is interest we may choose to share job openings between members however please speak to the organisers before approaching the group
+- If there is interest we may choose to share job openings between members however please speak to the organisers before approaching the group. Sponsors and presenters may bring to attention openings briefly.
 
 Should anyone feel members are not adhering to the spirit of these rules please contact the community leaders.
 

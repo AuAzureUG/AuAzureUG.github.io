@@ -1,7 +1,7 @@
 # www.AuAZUG.com - Australian Azure Users Group
 Built with [GitHub pages](https://pages.github.com) 
 
-## Next meeting  planned Noon, Tuesday, April 27, 2022
+## Next meeting  planned 6pm, Wed, April 27, 2022
 [https://www.meetup.com/Australian-Azure-Users-Group/events/](https://www.meetup.com/Australian-Azure-Users-Group/events/)
 
 ## Useful Links
